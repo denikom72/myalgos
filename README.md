@@ -1,2 +1,2 @@
 # myalgos
-algo templates for perl, python and ruby
+Algos for Golang, Python, Ruby, php8 and Java
